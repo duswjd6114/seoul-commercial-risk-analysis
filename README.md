@@ -209,3 +209,11 @@ Risk Score는 실제 폐업 여부를 예측하는 모델이 아니라 여러 �
 `원천 데이터 확인 → 데이터 정제 → 스키마 표준화 → 데이터 통합 → KPI 생성 → YoY 분석 → 위험도 산출 → 결과 검증 → Tableau 시각화`
 
 단순히 차트를 만드는 것보다, 상권의 위험 신호를 어떻게 정의할지 먼저 정하고 필요한 지표를 SQL로 만든 뒤 실제로 탐색할 수 있는 대시보드까지 연결하는 데 중점을 두었습니다.
+
+---
+
+## 12. Tableau 대시보드
+
+서울 상권의 위험 등급 분포와 고위험 상권 순위, 상권별 위험 요인을 한눈에 확인할 수 있도록 Tableau 대시보드를 구성했습니다.
+
+[Tableau Public 대시보드 바로가기](https://public.tableau.com/views/____17881953785990/sheet3?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
